@@ -1,0 +1,6 @@
+# Ignore node_modules directory
+day1/node_modules/
+day1/package.json
+day2/package.json
+day1/package-lock.json
+day2/package-lock.json
